@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align="center">Hey folks! 👋</h2>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=4ndev&color=blue&style=plastic"/> 
+</p>
 
 <!--
 **4ndev/4ndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
